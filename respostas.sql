@@ -1,3 +1,4 @@
+
 create DATABASE veiculos; 
 use veiculos; 
 create table carros (
